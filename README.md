@@ -1,2 +1,3 @@
 # hello-world
-ping
+
+Hello, fellows. Let's see how does it work.
